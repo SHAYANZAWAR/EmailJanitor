@@ -1,0 +1,7 @@
+.env
+credentials.json
+token.json
+__pycache__/
+*.pyc
+processed_emails.db
+venv/
